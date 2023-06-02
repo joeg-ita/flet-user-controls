@@ -3,8 +3,24 @@ flet custom user-controls [EXPERIMENTAL]
 
 ---
 
-## flet analog clock
+## Form
 
-Canvas - Threading
+### autocomplete
 
-![Analog clocks](flet-clock/resources/analog-clock.gif)
+### rating
+
+---
+
+## Info display
+
+### chip
+
+### tag
+
+---
+
+## Utils
+
+### flet analog clock
+
+![Analog clocks](utils/analog_clock/resources/analog-clock.gif)
