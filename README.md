@@ -8,14 +8,17 @@ flet custom user-controls [EXPERIMENTAL]
 ### autocomplete
 
 ### rating
+![tags](form/rating/rating.png)
 
 ---
 
 ## Info display
 
 ### chip
+![tags](info_display/chip/chip.png)
 
 ### tag
+![tags](info_display/tag/tag.png)
 
 ---
 
